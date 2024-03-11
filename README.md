@@ -1,8 +1,6 @@
 
 # **CMSmall**
 
-## SCATURRO ANDREA PIO 
-
 
 ## React Client Application Routes   
 
